@@ -6,23 +6,23 @@ permalink: /teaching/
 
 # Colorado State University
 
-## Fall 2021
+### Fall 2021
 
 STAT201 - General Statistics
 
-## Spring 2022
+### Spring 2022
 
 STAT307 - Introduction to Biostatistics
 
-## Spring 2023
+### Spring 2023
 
 STAT158 - Introduction to R Programming
 
-## Fall 2023
+### Fall 2023
 
 STAT301 - Introduction to Applied Statistical Methods
 
-## Spring 2024
+### Spring 2024
 
 STAT 158 - Introduction to R Programming
 

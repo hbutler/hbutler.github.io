@@ -5,17 +5,16 @@ permalink: /cv/
 ---
 
 # Education
-
-**University of New Mexico** Albuquerque, NM
-- B.A. Mathematics, Winter 2016
+**Colorado State University** Fort Collins, CO
+- Ph.D. Statistics, pending
 
 **Loyola University** Chicago, IL
 - M.A.S. Applied Statistics, Winter 2019
 
-**Colorado State University** Fort Collins, CO
-- Ph.D. Statistics, pending
+**University of New Mexico** Albuquerque, NM
+- B.A. Mathematics, Winter 2016
 
-# Industry
+# Industry Employment
 
 **Leo Burnett** Chicago, IL
 - Data Science Intern, Summer 2019
@@ -27,6 +26,9 @@ Quang Nguyen, Hannah Butler, Gregory J. Matthews, **An Examination of Olympic Sp
 
 # Speaking/Presentation
 
-Greenslopes, 11/7/2024
+*A Genealogical Application of Record Linkage for Black Americans in the Antebellum South* [CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) 12/15/2024
 
-CSU Graduate Student Showcase, 11/20/2024
+[*A Genealogical Application of Statistical Record Linkage for Black Americans in the Antebellum South*](/documents/CSUposter_Gradshow.pdf) CSU Graduate Student Showcase, 11/20/2024
+
+*A Genealogical Application of Record Linkage for Black Americans in the Antebellum South* [Greenslopes CSU](https://www.math.colostate.edu/~greenslo/Fall2023.html), 11/7/2024
+
