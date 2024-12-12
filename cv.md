@@ -32,3 +32,6 @@ Quang Nguyen, Hannah Butler, Gregory J. Matthews, **An Examination of Olympic Sp
 
 *A Genealogical Application of Record Linkage for Black Americans in the Antebellum South* [Greenslopes CSU](https://www.math.colostate.edu/~greenslo/Fall2023.html), 11/7/2024
 
+# Committees
+
+**D.E.I Committee** 2024, Colorado State University Department of Statistics
