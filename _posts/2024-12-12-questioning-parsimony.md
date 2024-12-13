@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Questioning Parsimony"
-date:   2024-12-12 17:00:00
+date:   2024-12-12 17:00:00 error
 categories: history
 ---
 
