@@ -34,4 +34,4 @@ Quang Nguyen, Hannah Butler, Gregory J. Matthews, **An Examination of Olympic Sp
 
 # Committees
 
-**D.E.I Committee** 2024, Colorado State University Department of Statistics
+**D.E.I. Committee** 2024, Colorado State University Department of Statistics
