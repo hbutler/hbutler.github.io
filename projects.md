@@ -7,7 +7,7 @@ permalink: /projects/
 # Completed
 
 # In Progress
-[The Law of Parsimony](documents/Principal of Parsimony)
+[The Law of Parsimony](documents/law_of_parsimony.pdf)
 
 # Anticipated
 
