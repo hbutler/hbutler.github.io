@@ -26,7 +26,7 @@ Quang Nguyen, Hannah Butler, Gregory J. Matthews, **An Examination of Olympic Sp
 
 # Speaking/Presentation
 
-*A Genealogical Application of Record Linkage for Black Americans in the Antebellum South* [CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) 12/15/2024
+[*A Genealogical Application of Record Linkage for Black Americans in the Antebellum South*](/documents/research_pres_final.pdf) [CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) 12/15/2024
 
 [*A Genealogical Application of Statistical Record Linkage for Black Americans in the Antebellum South*](/documents/CSUposter_Gradshow.pdf) CSU Graduate Student Showcase, 11/20/2024
 
