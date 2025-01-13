@@ -6,24 +6,24 @@ permalink: /reading/
 
 # Currently Reading
 
-- __The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference__
+- **The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference**
 
 Ian Hacking
 
 # Completed
 
-- __Weapons of Math Destruction: How big data increases inequality and threatens democracy__
+- **Weapons of Math Destruction: How big data increases inequality and threatens democracy**
 
 Cathy O'Neil
 
-- __Race After Technology: Abolitionist Tools for the New Jim Code__
+- **Race After Technology: Abolitionist Tools for the New Jim Code**
 
 Ruha Benjamin
 
 # To Read
 
-- __The Theory that Would Not Die__ Sharon Bertsch Mcgrayne
-- __Data Portraits: Visualizing Black America__ W.E.B. De Bois
-- __Algorithms of Oppression__ Safiya Umoja Noble
-- __The Alignment Problem: Machine Learning and Human Values__ Brian Christian
-- __Superior: The return of race science__ Angela Saini
+- **The Theory that Would Not Die** Sharon Bertsch Mcgrayne
+- **Data Portraits: Visualizing Black America** W.E.B. De Bois
+- **Algorithms of Oppression** Safiya Umoja Noble
+- **The Alignment Problem: Machine Learning and Human Values** Brian Christian
+- **Superior: The return of race science** Angela Saini
