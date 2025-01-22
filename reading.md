@@ -6,19 +6,15 @@ permalink: /reading/
 
 # Currently Reading
 
-- **The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference**
-
-Ian Hacking
+- **The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference** Ian Hacking
 
 # Completed
 
-- **Weapons of Math Destruction: How big data increases inequality and threatens democracy**
+- **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
 
-Cathy O'Neil
+- **Weapons of Math Destruction: How big data increases inequality and threatens democracy** Cathy O'Neil
 
-- **Race After Technology: Abolitionist Tools for the New Jim Code**
-
-Ruha Benjamin
+- **Race After Technology: Abolitionist Tools for the New Jim Code** Ruha Benjamin
 
 # To Read
 
