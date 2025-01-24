@@ -8,6 +8,8 @@ permalink: /reading/
 
 - **The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference** Ian Hacking
 
+- **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
+
 # Completed
 
 - **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
