@@ -14,7 +14,7 @@ The aim is to make this required subject matter for students pursuing a Ph.D. in
 
 **By Rev. Martin Luther King, Jr., 16 April, 1963**
 
-*First, I must confess that over the last few years I have been gravely disappointed with the white moderate. I have almost reached the regrettable conclusion that the Negro's great stumbling block in the stride toward is not the White Citizen's Council-er or the Ku Klux Klanner,* 
+*First, I must confess that over the last few years I have been gravely disappointed with the white moderate. I have almost reached the regrettable conclusion that the Negro's great stumbling block in the stride toward freedom is not the White Citizen's Council-er or the Ku Klux Klanner,* 
 
 *but the white moderate who is more devoted to "order" than to justice;*
 
