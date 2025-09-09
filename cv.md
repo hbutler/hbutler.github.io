@@ -1,18 +1,18 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
 # Education
 **Colorado State University** Fort Collins, CO
-- Ph.D. Statistics, pending
+- (anticipated Summer 2026) Ph.D. Statistics
 
 **Loyola University** Chicago, IL
-- M.A.S. Applied Statistics, Winter 2019
+- 12/2019 M.A.S. Applied Statistics
 
 **University of New Mexico** Albuquerque, NM
-- B.A. Mathematics, Winter 2016
+- 12/2016 B.A. Mathematics 
 
 # Industry Employment
 
@@ -24,6 +24,22 @@ permalink: /cv/
 
 09/2025 **Arts Hub** Albuquerque, NM
 - Data processing, exploratory data analysis, audience segmentation
+
+# Teaching
+**Colorado State University**
+- STAT 150: Introduction to R Programming, Spring 2023, 2024
+- STAT 201: General Statistics, Fall 2021
+- STAT 301: Introduction to Statistical Methods, Fall 2023
+- STAT 307: Introduction to Biostatistics, Spring 2022
+
+**Mathnasium (Lincoln Park, Ravenswood)** Chicago, IL, 03/2017 - 11/2019
+- Instructor > Lead Instructor > Assistant Center Director
+
+**Harold Washington College** Chicago, IL, 09/2017 - 05/2018
+- Math Tutor
+
+**University of New Mexico** Albuquerque, NM, 01/2026 - 02/2017
+- Upper Level Math Tutor
 
 # Service
 Fall 2025 **University Curriculum Committee** Colorado State University
