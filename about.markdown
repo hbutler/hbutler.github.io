@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-
-# Identity
-I am a mixed African/European, cis woman. My identity as a member of a marginalized group influences my research interests and methodological approaches.
+I am a mixed African American/White woman. My identity as a member of a marginalized group influences my research interests and methodological approaches.
 
 # Research Interests
 
@@ -21,6 +19,9 @@ I am a mixed African/European, cis woman. My identity as a member of a marginali
 
 - Rock climbing
 - Crochet
+- Painting
+- Gardening
+- Carpentry
 - Hiking/backpacking
 - Languages
 - Travel
