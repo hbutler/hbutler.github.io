@@ -23,7 +23,7 @@ permalink: /cv/
 # Freelance/Contract Datawork
 
 09/2025 **Arts Hub** Albuquerque, NM
-- Data processing, exploratory data analysis, audience segmentation
+- Data processing, audience segmentation, exploratory data analysis
 
 # Teaching
 **Colorado State University**
@@ -42,6 +42,10 @@ permalink: /cv/
 - Upper Level Math Tutor
 
 # Service
+
+Fall 2025 **Partners**
+- **Volunteer Community-Based Mentor**
+
 Fall 2025 **University Curriculum Committee** Colorado State University
 - Graduate Student Representative
 
@@ -52,7 +56,9 @@ Spring, Fall 2025 **Graduate Student Council** Colorado State University
 - Statistics Department Graduate Student Representative
 
 Fall 2024, Spring 2025 **Success and Access Committee (Formerly D.E.I. Committee)** Colorado State University, Department of Statistics
-- Graduate Student Representative
+- **Graduate Student Representative**
+  - Organized screening of *Counted Out* documentary at Colorado State University
+
 
 # Speaking/Presentation
 
