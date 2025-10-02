@@ -3,6 +3,7 @@ layout: post
 title:  "Questioning Parsimony"
 date:   2024-12-12 17:00:00 error
 categories: history
+published: false
 ---
 
 [I'm not the first](https://statmodeling.stat.columbia.edu/?s=parsimony&submit=Search) 
