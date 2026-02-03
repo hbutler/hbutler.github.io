@@ -6,12 +6,16 @@ permalink: /reading/
 
 # Currently Reading
 
-- **The Emergence of Probability: A philosophical study of early ideas about probability induction and statistical inference** Ian Hacking
-
-- **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
+- **Civilized to Death: The Price of Progress** Christopher Ryan
 
 # Completed
 
+- **The Blacker the Berry** Wallace Thurman
+  
+- **The Love Songs of W.E.B. Du Bois** Honorée Fanonne Jeffers
+
+- **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
+  
 - **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
 
 - **Weapons of Math Destruction: How big data increases inequality and threatens democracy** Cathy O'Neil
