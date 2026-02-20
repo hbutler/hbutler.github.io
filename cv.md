@@ -62,6 +62,12 @@ Fall 2024, Spring 2025 **Success and Access Committee (Formerly D.E.I. Committee
 
 # Speaking/Presentation
 
+12/10/2025 [*Leveraging Bayesian Bipartite
+Record Linkage to Connect the
+Experiences of Victims of
+Antebellum Slavery
+*](/documents/prelim-slides_public.pdf) Ph.D. Preliminary Exam
+
 08/07/2025 [*A Bayesian Approach to Linking Historical Records of America's Enslaved*](/documents/BUTLER_JSM2025_FINAL.pdf) Joint Statistical Meetings 2025
 
 12/15/2024 [*A Genealogical Application of Record Linkage for Black Americans in the Antebellum South*](/documents/research_pres_final.pdf) [CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) 
