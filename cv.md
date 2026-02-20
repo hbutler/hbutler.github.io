@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Education
 **Colorado State University** Fort Collins, CO
-- (anticipated Summer 2026) Ph.D. Statistics
+- (anticipated Summer 2027) Ph.D. Statistics
 
 **Loyola University** Chicago, IL
 - 12/2019 M.A.S. Applied Statistics
@@ -65,8 +65,7 @@ Fall 2024, Spring 2025 **Success and Access Committee (Formerly D.E.I. Committee
 12/10/2025 [*Leveraging Bayesian Bipartite
 Record Linkage to Connect the
 Experiences of Victims of
-Antebellum Slavery
-*](/documents/prelim-slides_public.pdf) Ph.D. Preliminary Exam
+Antebellum Slavery*](/documents/prelim-slides_public.pdf) Ph.D. Preliminary Exam
 
 08/07/2025 [*A Bayesian Approach to Linking Historical Records of America's Enslaved*](/documents/BUTLER_JSM2025_FINAL.pdf) Joint Statistical Meetings 2025
 
