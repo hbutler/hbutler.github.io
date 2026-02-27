@@ -10,14 +10,14 @@ permalink: /reading/
 
 # Completed
 
-- **Civilized to Death: The Price of Progress** Christopher Ryan
-- **The Blacker the Berry** Wallace Thurman
-- **The Love Songs of W.E.B. Du Bois** Honorée Fanonne Jeffers
-- **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
-- **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
-- **Weapons of Math Destruction: How big data increases inequality and threatens democracy** Cathy O'Neil
-- **Race After Technology: Abolitionist Tools for the New Jim Code** Ruha Benjamin
-
+- (2026) **Civilized to Death: The Price of Progress** Christopher Ryan
+- (2026) **The Blacker the Berry** Wallace Thurman
+- (2026) **The Love Songs of W.E.B. Du Bois** Honorée Fanonne Jeffers
+- (2025) **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
+- (2025) **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
+- (2025) **Race After Technology: Abolitionist Tools for the New Jim Code** Ruha Benjamin
+- (2021) **Weapons of Math Destruction: How big data increases inequality and threatens democracy** Cathy O'Neil
+  
 # To Read
 
 - **The Theory that Would Not Die** Sharon Bertsch Mcgrayne
