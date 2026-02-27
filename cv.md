@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
+[**Download Full CV**](/documents/cv.pdf)
 
 # Education
 **Colorado State University** Fort Collins, CO
