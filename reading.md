@@ -6,20 +6,16 @@ permalink: /reading/
 
 # Currently Reading
 
-- **Civilized to Death: The Price of Progress** Christopher Ryan
+- **The New Jim Crow: Mass Incarceration in the Age of Colorblindness** Michelle Alexander
 
 # Completed
 
+- **Civilized to Death: The Price of Progress** Christopher Ryan
 - **The Blacker the Berry** Wallace Thurman
-  
 - **The Love Songs of W.E.B. Du Bois** Honorée Fanonne Jeffers
-
 - **Data Feminism** Catherine D'Ignazio and Lauren F. Klein
-  
 - **More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech** Meredith Broussard
-
 - **Weapons of Math Destruction: How big data increases inequality and threatens democracy** Cathy O'Neil
-
 - **Race After Technology: Abolitionist Tools for the New Jim Code** Ruha Benjamin
 
 # To Read
